@@ -84,4 +84,4 @@ print('Hello world!')
 * [ ] Task 3
 * [x] Task 4
 
-@paologordillo :flag_pe: :trophy:
+@paologordillo :trophy:
